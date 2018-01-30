@@ -4,5 +4,5 @@ Simple bouncing animation. Created during eduweb course.
 
 **Technologies: HTML, CSS**
 
-<a href="https://karminkarmen.github.io/bouncing-text-animation/">**LINK TO PREWIEV**</a>
+<a href="https://karminkarmen.github.io/bouncing-text-animation/">**LINK TO PREVIEW**</a>
 
